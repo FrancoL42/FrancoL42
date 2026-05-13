@@ -4,7 +4,8 @@ Backend / Fullstack Developer from Argentina 🇦🇷
 ## About Me
 - Working with Java and Spring Boot
 - Experience building REST APIs and enterprise applications
-- Currently working on internal management systems
+- Focused on multi-tenant SaaS platforms and compliance / ISO management systems
+- Interested in clean layered architectures, data integrity, and auditable systems
 - Final-year Programming student
 
 ## Tech Stack
@@ -31,6 +32,8 @@ The system centralizes quality, environmental, and occupational safety managemen
 - Process classification (Strategic / Operational / Support) with lifecycle management
 
 **Stack:** Java 17 · Spring Boot 3 · Spring Security · JWT · JPA/Hibernate · MySQL 8 · Angular 18 · Maven
+
+🔗 [View repository](https://github.com/FrancoL42/Integrated-Management-System)
 
 ## Featured Projects
 
