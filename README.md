@@ -6,7 +6,6 @@ Backend / Fullstack Developer from Argentina 🇦🇷
 - Experience building REST APIs and enterprise applications
 - Focused on multi-tenant SaaS platforms and compliance / ISO management systems
 - Interested in clean layered architectures, data integrity, and auditable systems
-- Final-year Programming student
 
 ## Tech Stack
 - Java
